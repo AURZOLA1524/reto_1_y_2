@@ -6,7 +6,10 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author MIRABAI
+ * @authores:
+ * MIRABAI
+ * ANTHONY URZOLA BANQUEZ
+ * JUAN SEBASTIAN BUSTAMANTE CASILIMAS
  */
 
 public class EJERCICIO{
